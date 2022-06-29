@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Frontend Developer with passion for JavaScript
+:godmode: I'm Frontend Developer with passion for JavaScript

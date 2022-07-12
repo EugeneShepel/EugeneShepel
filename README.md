@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 :godmode: I'm Frontend Developer with passion for JavaScript
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eugeneshepel&show_icons=true&theme=radical)
+
+Last pet project: https://github.com/OgArustamian/IQ-fighter
